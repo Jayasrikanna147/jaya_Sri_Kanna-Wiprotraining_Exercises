@@ -1,0 +1,9 @@
+com\wipro\productservice\repo\ProductRepository.class
+com\wipro\productservice\dto\ProductDTO.class
+com\wipro\productservice\controller\ProductController.class
+com\wipro\productservice\ProductserviceApplication.class
+com\wipro\productservice\service\ProductService.class
+com\wipro\productservice\entity\Product.class
+com\wipro\productservice\service\impl\ProductServiceImpl.class
+com\wipro\productservice\dto\OrderEvent.class
+com\wipro\productservice\kafka\ProductEventConsumer.class
